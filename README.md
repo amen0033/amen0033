@@ -46,6 +46,12 @@
 - **Clock & Weather UI** — responsive front-end project with dark/light mode, built with HTML, CSS and JavaScript
 - **[cs50-projects](https://github.com/amen0033/cs50-projects)** — my CS50 journey, week by week
 
+## 🏆 Certifications
+
+- **CS50's Introduction to Artificial Intelligence with Python** — Harvard University (Oct 2026)
+  Twelve projects: search algorithms, probabilistic reasoning, constraint satisfaction, reinforcement learning, NLP, and neural networks (CNNs).
+  [Verify certificate](https://cs50.harvard.edu/certificates/6acbffd6-edee-488d-8282-9e1d7819cfc2)
+
 ## 📊 GitHub stats
 
 <div align="center">
